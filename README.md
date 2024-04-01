@@ -1,7 +1,10 @@
 # Data-Professionals-Survey-Analysis
 
 ## Table Of Contents
-- 
+- [Dashboard 1](#dashboard-1)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+  
 ### Project Overview
 This data professional survey analysis aims to identify potential areas for improvement in
 diversity, employee well-being, and overall satisfaction to enhance the overall work environment.
@@ -32,7 +35,7 @@ expectations?
 ![](Dashboard_2)
 
 
-### Results/Findings
+### Insights
 1. Data Scientists earn more in the data profession, and Python seems to be the favorite
 programming language of all data professionals.
 2. Only 24.92% of data professionals are happy with their salary while 42.06% are not
